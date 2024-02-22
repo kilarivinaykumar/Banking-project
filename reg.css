@@ -1,0 +1,17 @@
+#form{
+   text-align: center;
+}
+body{
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+}
+input{
+    color: rgb(6, 76, 173);
+}
+label{
+    color: rgb(222, 18, 212);
+}

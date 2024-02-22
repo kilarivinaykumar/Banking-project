@@ -1,0 +1,16 @@
+body{
+    background-color: bisque;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+    text-decoration: none;
+}
+input{
+    color: rgb(6, 76, 173);
+}
+label{
+    color: rgb(222, 18, 212);
+}
